@@ -10,3 +10,14 @@
 *.lai
 *.la
 *.a
+
+# Log files
+*.tlog
+
+# Intermediate directories
+Debug/
+Release/
+
+# User-specific files
+*.sdf
+*.user
